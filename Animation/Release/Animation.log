@@ -1,0 +1,124 @@
+﻿  test.cpp
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\arch\default\half.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\arch\default\bfloat16.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\arch\default\genericpacketmathfunctions.h(664): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(97): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(152): warning C4305: '+=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(158): warning C4305: '-=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(161): warning C4305: '+=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(167): warning C4305: '-=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(170): warning C4305: '+=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(176): warning C4305: '-=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(182): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(183): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(184): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(191): warning C4018: '<': signed/unsigned mismatch
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(362): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(364): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(366): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(368): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(371): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(373): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(375): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(377): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(380): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(382): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(384): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(386): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(389): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(391): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(395): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(398): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(400): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(402): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(404): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(407): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(409): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(411): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(413): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(447): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(448): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(449): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(457): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(473): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\assignevaluator.h(889): error C2338: YOU_MIXED_DIFFERENT_NUMERIC_TYPES__YOU_NEED_TO_USE_THE_CAST_METHOD_OF_MATRIXBASE_TO_CAST_NUMERIC_TYPES_EXPLICITLY
+  d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\plainobjectbase.h(795): note: see reference to function template instantiation 'void Eigen::internal::call_assignment_no_alias<Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::internal::assign_op<float,double>>(Dst &,const Src &,const Func &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<float,-1,-1,0,-1,-1>,
+              Dst=Eigen::Matrix<float,-1,-1,0,-1,-1>,
+              Src=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              Func=Eigen::internal::assign_op<float,double>
+          ]
+  d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\plainobjectbase.h(881): note: see reference to function template instantiation 'Derived &Eigen::PlainObjectBase<Derived>::_set_noalias<Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<float,-1,-1,0,-1,-1>
+          ]
+  d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\plainobjectbase.h(881): note: see reference to function template instantiation 'Derived &Eigen::PlainObjectBase<Derived>::_set_noalias<Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<float,-1,-1,0,-1,-1>
+          ]
+  d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\matrix.h(325): note: see reference to function template instantiation 'void Eigen::PlainObjectBase<Eigen::Matrix<float,-1,-1,0,-1,-1>>::_init1<T,Derived>(const Eigen::DenseBase<Derived> &)' being compiled
+          with
+          [
+              T=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\matrix.h(325): note: see reference to function template instantiation 'void Eigen::PlainObjectBase<Eigen::Matrix<float,-1,-1,0,-1,-1>>::_init1<T,Derived>(const Eigen::DenseBase<Derived> &)' being compiled
+          with
+          [
+              T=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\cholesky\ldlt.h(138): note: see reference to function template instantiation 'Eigen::Matrix<float,-1,-1,0,-1,-1>::Matrix<Derived>(const T &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              T=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\cholesky\ldlt.h(133): note: see reference to function template instantiation 'Eigen::Matrix<float,-1,-1,0,-1,-1>::Matrix<Derived>(const T &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              T=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(429): note: see reference to function template instantiation 'Eigen::LDLT<Eigen::MatrixXf,1>::LDLT<Derived>(Eigen::EigenBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(429): note: see reference to function template instantiation 'Eigen::LDLT<Eigen::MatrixXf,1>::LDLT<Derived>(Eigen::EigenBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]

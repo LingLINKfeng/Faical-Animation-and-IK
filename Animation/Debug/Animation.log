@@ -1,0 +1,46 @@
+﻿  test.cpp
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\arch\default\half.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\arch\default\bfloat16.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\vendor\eigen\src\core\arch\default\genericpacketmathfunctions.h(664): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(135): warning C4305: '+=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(140): warning C4305: '-=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(143): warning C4305: '+=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(148): warning C4305: '-=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(155): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(156): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(157): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(164): warning C4018: '<': signed/unsigned mismatch
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(365): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(366): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(367): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(375): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\test.cpp(391): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Animation.vcxproj -> D:\PGLearning\Semester2\Real-TimeAnimation\Animation\Debug\Animation.exe
